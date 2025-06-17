@@ -95,10 +95,10 @@ Simulate temperature and humidity data from smart building sensors and process t
 
 ## 🧑‍💻 Authors
 
-**Sai Kiran Anumalla**
-**Varun Sai Danduri**
-MSCS @ Northeastern University  
-GitHub: [@saikirananumalla](https://github.com/saikirananumalla)
+**Sai Kiran Anumalla**       
+**Varun Sai Danduri**       
+MSCS @ Northeastern University        
+GitHub: [@saikirananumalla](https://github.com/saikirananumalla)       
 [@VarunSai-DVS](https://github.com/VarunSai-DVS)
 
 ---
